@@ -2,6 +2,8 @@
 
 SnapFeed is a clean, practical, image-sharing social media web application built with the MERN stack (MongoDB, Express.js, React, Node.js). It provides a familiar, distraction-free social experience with an emphasis on authentic community sharing, responsive performance, and clean architecture.
 
+* Live  =  https://snap-feed-mern-full-stack.vercel.app/login
+
 ---
 
 ## Architecture Overview
